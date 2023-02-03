@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+*{
+    /* border: solid; */
+    font-family: 'Titillium Web', sans-serif;
+   
+   
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp6526662.png);
+    background-size: cover;
+    /* border:solid; */
+    /* display: flex; */
+    align-items:center ;
+    justify-content: center;
+
+}
+p{
+    /* border:solid; */
+    background-color: rgb(190, 118, 119);
+    box-shadow: 0px 30px 60px;
+}
+img{
+    box-shadow: 0px 30px 60px; color: black;
+}
